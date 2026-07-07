@@ -72,8 +72,12 @@ nativeEvent: {
 **On Android, autofill reports `selection: { start: 0, end: 0 }` while the text length is 12.**
 
 ## Demo
+https://github.com/user-attachments/assets/119ac70a-6d86-46f6-8fb5-247ddccd3225
 
-https://raw.githubusercontent.com/nsbarsukov/react-native-android-autofill-bug/refs/heads/main/bug-demo.mov
+[Download video](https://raw.githubusercontent.com/nsbarsukov/react-native-android-autofill-bug/refs/heads/main/bug-demo.mov)
+
+
+
 
 ## Reproduction
 
